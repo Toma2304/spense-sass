@@ -344,7 +344,7 @@
                     }
                     &.desk {
                         display: block;
-                        width: 70%;
+                        width: 40%;
                     }
                 
                 }
@@ -355,6 +355,7 @@
             .container {
                 width: 1166px;
                 .list {
+                    overflow-x: hidden;
                     justify-content: space-between;
                 }
             }
@@ -398,7 +399,7 @@
 
                 .img {
                     display: block;
-                    width: 100%;
+                    width: 60%;
                 }
             }
         }
